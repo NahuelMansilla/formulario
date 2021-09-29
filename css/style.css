@@ -1,0 +1,40 @@
+body{
+    background-image: url(/dev2.jpg);
+    background-size: cover;
+}
+
+*{
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+.datos{
+    text-align: center;
+    border: 50px /*transparent*/;
+    border-radius: 20px;
+    background: rgba(223, 226, 228, 0.5);
+    
+    
+}
+
+.horario{
+    text-align: center;
+    border: 50px transparent;
+    border-radius: 20px;
+    background: rgba(223, 226, 228, 0.5);
+}
+
+.curso{
+    text-align: center;
+    border: 50px transparent;
+    border-radius: 20px;
+    background: rgba(223, 226, 228, 0.5);
+}
+
+.nivel{
+    text-align: center;
+    border: 50px transparent;
+    border-radius: 20px;
+    background: rgba(223, 226, 228, 0.5);
+}
